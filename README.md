@@ -19,3 +19,5 @@ No accounts, no phone-number sign-up, no analytics. The internet relay is [ntfy]
 Found a problem? Please write to the contact on the [Arke site](https://arke-app.github.io/) before publishing it, so it can be fixed first.
 
 MIT licence.
+
+[Meshtastic®](https://meshtastic.org) is a registered trademark of Meshtastic LLC. Meshtastic software components are released under various licenses, see [GitHub](https://github.com/meshtastic) for details. No warranty is provided - use at your own risk. Arke is not affiliated with or endorsed by the Meshtastic project.
